@@ -2,7 +2,7 @@ import { Rocket, Database, Smartphone } from 'lucide-react'
 import { supabase } from './supabase'
 
 const APP_NAME = "leetcode-mastery-hub"
-const DESCRIPTION = "LeetCode Top Interview 150 \uae30\ubc18 \ucf54\ub529 \ud14c\uc2a4\ud2b8 \uc5f0\uc2b5 \uc571. \uac1c\ub150 \ud559\uc2b5(Easy/Medium \ud398\uc5b4), \uc54c\uace0\ub9ac\uc998 \uc2dc\uac01\ud654, \uc2e4\uc804 \uc5f0\uc2b5 \uae30\ub2a5\uc744 \ud3ec\ud568\ud569\ub2c8\ub2e4."
+const DESCRIPTION = "LeetCode Top Interview 150 \uae30\ubc18 \ucf54\ub529 \ud14c\uc2a4\ud2b8 \uc5f0\uc2b5 \uc571. \uac1c\ub150 \ud559\uc2b5(Easy) + \uc2e4\uc804 \uc5f0\uc2b5(Medium) + \uc54c\uace0\ub9ac\uc998 \uc2dc\uac01\ud654 \ud3ec\ud568."
 
 const features = [
   ['Telegram first', '핸드폰에서 요청하고 바로 수정/배포하는 흐름을 전제로 만든 앱입니다.', Smartphone],
